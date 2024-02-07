@@ -1,0 +1,12 @@
+body{
+    background-image: url(papa.JPEG);
+    border-style: double;
+    position: relative;
+    width: 30%;
+    height: 40%;
+    margin: 10cm;
+    
+}
+button{
+    background-color: blue;
+}

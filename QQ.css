@@ -1,0 +1,45 @@
+body{
+    background-color: bisque;
+}
+h1{
+    font-size: 2cm;
+    color: aqua;
+    position: relative;
+    left: 10cm;
+}
+a{
+    position: relative;
+    left: 32cm;
+    bottom: 6cm;
+    font-size: xx-large;
+    border-style: double;
+    background-color: coral;
+    cursor: pointer;
+    color: #fff;
+    transition: 0.4s ease;
+}
+h2{
+    position: relative;
+    right: 0.1cm;
+    bottom: 5cm;
+}
+.b{
+    padding-left: 5rem;
+    padding: 0.2rem;
+    padding-bottom: 0.2rem;
+
+}
+button{
+    background-color: chocolate;
+    margin: 0.1cm;
+}
+input{
+    position: relative;
+    left: 21cm;
+    bottom: 6cm;
+}
+button{
+    position: relative;
+    left: 21cm;
+    bottom: 6cm;
+}
