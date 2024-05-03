@@ -1,0 +1,37 @@
+body{
+    background-color: bisque;
+}
+h3{
+    position: relative;
+    left: 2cm;
+}
+
+.point{
+    position: relative;
+    left: 1cm;
+    
+}
+
+button{
+    border-radius: initial;
+    height: 40px;
+    width: 80px;
+    
+}
+.f{
+    position: relative;
+    top: 1cm;
+    justify-content: space-between;
+
+}
+.po{
+    position: relative;
+    left: 12cm;
+    bottom: 4.5cm;
+}
+
+.poi{
+    position: inherit;
+    left: 10cm;
+    bottom: 5.5cm;
+}
