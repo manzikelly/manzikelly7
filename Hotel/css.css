@@ -1,0 +1,42 @@
+body {
+    background-image: url("hotel.png");
+    background-size: 100%;
+    background-color: rgba(0, 0, 0, 0, 5);
+
+}
+
+.nav-item {
+    display: flex;
+    margin: 0.5cm;
+}
+
+.logo {
+    border: 10px;
+    border-radius: 30px;
+}
+
+a {
+    text-decoration: transparent;
+    color: white;
+    margin: 1cm;
+}
+
+.input {
+    position: relative;
+    left: 14cm;
+    top: 0.8cm;
+}
+
+h2 {
+    position: relative;
+    left: 13cm;
+    color: bisque;
+    top: 4cm;
+}
+
+.intro {
+    position: relative;
+    left: 14cm;
+    top: 6cm;
+    color: aliceblue;
+}
